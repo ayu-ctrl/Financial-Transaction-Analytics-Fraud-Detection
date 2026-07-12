@@ -50,16 +50,6 @@ powerbi/
 sql/
 ```
 
----
-
-## Resume Highlights
-
-- Analyzed **5M+ financial transactions** using Python, PostgreSQL, and SQL.
-- Developed **30+ SQL queries** for fraud detection, merchant analysis, payment trends, and KPI generation.
-- Building an interactive **Power BI dashboard** tracking 10+ KPIs for fraud monitoring and business intelligence.
-
----
-
 ## Author
 
 **Ayushi Sahani**
