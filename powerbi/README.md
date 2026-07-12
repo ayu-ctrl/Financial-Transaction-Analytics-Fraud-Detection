@@ -13,7 +13,6 @@ Visualization:
 
 ![](images/dashboard.png)
 
-## Power BI Dashboard
 
 The dashboard was built using Microsoft Power BI.
 
