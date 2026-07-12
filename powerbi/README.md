@@ -12,3 +12,11 @@ Visualization:
 - Monthly Transaction Trend
 
 ![](images/dashboard.png)
+
+## Power BI Dashboard
+
+The dashboard was built using Microsoft Power BI.
+
+Due to GitHub's 25 MB web upload limit, the `.pbix` file is not included in this repository.
+
+Dashboard screenshots are available in the `images/` folder.
